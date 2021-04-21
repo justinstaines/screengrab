@@ -1,0 +1,15 @@
+C:\Users\jstaines\source\repos\WindowsFormsApp3screen\WindowsFormsApp3screen\obj\Debug\netcoreapp3.1\WindowsFormsApp3screen.csprojAssemblyReference.cache
+C:\Users\jstaines\source\repos\WindowsFormsApp3screen\WindowsFormsApp3screen\obj\Debug\netcoreapp3.1\WindowsFormsApp3screen.Form1.resources
+C:\Users\jstaines\source\repos\WindowsFormsApp3screen\WindowsFormsApp3screen\obj\Debug\netcoreapp3.1\WindowsFormsApp3screen.csproj.GenerateResource.cache
+C:\Users\jstaines\source\repos\WindowsFormsApp3screen\WindowsFormsApp3screen\obj\Debug\netcoreapp3.1\WindowsFormsApp3screen.AssemblyInfoInputs.cache
+C:\Users\jstaines\source\repos\WindowsFormsApp3screen\WindowsFormsApp3screen\obj\Debug\netcoreapp3.1\WindowsFormsApp3screen.AssemblyInfo.cs
+C:\Users\jstaines\source\repos\WindowsFormsApp3screen\WindowsFormsApp3screen\obj\Debug\netcoreapp3.1\WindowsFormsApp3screen.csproj.CoreCompileInputs.cache
+C:\Users\jstaines\source\repos\WindowsFormsApp3screen\WindowsFormsApp3screen\bin\Debug\netcoreapp3.1\WindowsFormsApp3screen.exe
+C:\Users\jstaines\source\repos\WindowsFormsApp3screen\WindowsFormsApp3screen\bin\Debug\netcoreapp3.1\WindowsFormsApp3screen.deps.json
+C:\Users\jstaines\source\repos\WindowsFormsApp3screen\WindowsFormsApp3screen\bin\Debug\netcoreapp3.1\WindowsFormsApp3screen.runtimeconfig.json
+C:\Users\jstaines\source\repos\WindowsFormsApp3screen\WindowsFormsApp3screen\bin\Debug\netcoreapp3.1\WindowsFormsApp3screen.runtimeconfig.dev.json
+C:\Users\jstaines\source\repos\WindowsFormsApp3screen\WindowsFormsApp3screen\bin\Debug\netcoreapp3.1\WindowsFormsApp3screen.dll
+C:\Users\jstaines\source\repos\WindowsFormsApp3screen\WindowsFormsApp3screen\bin\Debug\netcoreapp3.1\WindowsFormsApp3screen.pdb
+C:\Users\jstaines\source\repos\WindowsFormsApp3screen\WindowsFormsApp3screen\obj\Debug\netcoreapp3.1\WindowsFormsApp3screen.dll
+C:\Users\jstaines\source\repos\WindowsFormsApp3screen\WindowsFormsApp3screen\obj\Debug\netcoreapp3.1\WindowsFormsApp3screen.pdb
+C:\Users\jstaines\source\repos\WindowsFormsApp3screen\WindowsFormsApp3screen\obj\Debug\netcoreapp3.1\WindowsFormsApp3screen.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jstaines\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jstaines\\.nuget\\packages"
+    ]
+  }
+}
